@@ -1,0 +1,11 @@
+node_modules
+.DS_Store
+dist
+resources
+
+*.local
+.debug.env
+
+tmp
+**/.tmp
+release
